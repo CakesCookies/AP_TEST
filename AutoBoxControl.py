@@ -3,7 +3,6 @@ from clr import System
 import serial
 import serial.tools.list_ports
 
-# 我又進來了
 
 def AutoBox():
     # print('Search...')
