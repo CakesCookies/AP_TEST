@@ -13,10 +13,6 @@ from AutoBoxControl import ConnectAutoBox, AcControl
 from Txt_To_Excel import TXTFile_To_ExcelFile
 
 
-#test
-#11
-#remi_test
-#remi_test2
 def BrowserPause():
     goal = 1
     while (goal):
